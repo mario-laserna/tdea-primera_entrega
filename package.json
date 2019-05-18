@@ -1,0 +1,22 @@
+{
+  "name": "tdea-primera_entrega",
+  "version": "0.0.1",
+  "description": "Primera entrega curso node.js y agiles",
+  "main": "principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mario-laserna/tdea-primera_entrega.git"
+  },
+  "author": "Mario Laserna laserna.mario\u001b2@\u001b2gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mario-laserna/tdea-primera_entrega/issues"
+  },
+  "homepage": "https://github.com/mario-laserna/tdea-primera_entrega#readme",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
