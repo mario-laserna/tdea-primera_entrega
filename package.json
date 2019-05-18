@@ -1,6 +1,6 @@
 {
   "name": "tdea-primera_entrega",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Primera entrega curso node.js y agiles",
   "main": "principal.js",
   "scripts": {
