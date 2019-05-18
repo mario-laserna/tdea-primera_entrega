@@ -13,3 +13,16 @@ $ npm install
 $ node principal
 ```
 
+## Instrucciones de ejecución
+
+### Ver listado de cursos
+
+```sh
+$ node principal
+```
+
+### Inscribirse a un curso
+
+```sh
+$ node principal inscribir -id=ID DEL CURSO -nombre=NOMBRE PERSONA -c=CEDULA PERSONA
+```
