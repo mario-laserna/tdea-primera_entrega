@@ -9,7 +9,7 @@ Primera entrega del curso de la Tecnológica de Antioquia
 Clone el repositorio a su equipo y ejecute el comando
 
 ```sh
-$ npm install -d
+$ npm install
 $ node principal
 ```
 
