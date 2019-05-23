@@ -24,5 +24,5 @@ $ node principal
 ### Inscribirse a un curso
 
 ```sh
-$ node principal inscribir -id=ID_CURSO -nombre='NOMBRE PERSONA' -c=CEDULA PERSONA
+$ node principal inscribir -i=ID_CURSO -n='NOMBRE PERSONA' -c=CEDULA PERSONA
 ```

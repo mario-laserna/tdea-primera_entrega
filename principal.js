@@ -25,8 +25,10 @@ const argv = require('yargs')
 if(argv._.length <= 0) {
     funciones.listadoConRetraso(datos.cursos);
 }else {
-    let id = argv.id;
-    let curso = datos.cursos.find( curso => curso.id == id);
+    //console.log(argv);
+    let id = argv.i;
+    let curso = datos.cursos.find(curso => curso.id == id);
+    //console.log(curso);
 
     // Verifica que el curso exista
     if (!curso) {
